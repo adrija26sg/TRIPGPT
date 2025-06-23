@@ -1,2 +1,26 @@
-/.idea/
-/venv/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+tripgpt-env/
+
+# Environment secrets
+.env
+
+# Streamlit
+.streamlit/config.toml
+
+# VS Code settings
+.vscode/
+
+
+
+# Logs and runtime files
+*.log
+*.pid
+
+# OS files
+.DS_Store
+Thumbs.db
