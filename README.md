@@ -1,8 +1,8 @@
-# 🧭 Trip-Planner Bot: Your AI Travel Buddy Powered by Langchain
+# 🧭 Trip-GPT Bot: Your AI Travel Buddy Powered by Langchain
 
 ## ✈️ What's This All About?
 
-Say hello to **Trip-Planner Bot** — your AI-powered co-pilot for planning adventures! 🗺️ Built with the awesome **Langchain** framework and running on a snappy **Streamlit** interface, this bot is my first experimental dive into the world of Langchain and LLMs — a quick, scrappy build that turned out pretty cool!
+Say hello to **Trip-GPT Bot** — your AI-powered co-pilot for planning adventures! 🗺️ Built with the awesome **Langchain** framework and running on a snappy **Streamlit** interface, this bot is my first experimental dive into the world of Langchain and LLMs — a quick, scrappy build that turned out pretty cool!
 
 This handy travel sidekick can help you:
 - Discover cool stuff around you
